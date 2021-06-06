@@ -15,7 +15,7 @@
 
 | <h4 align="center">Visitor's count :eyes:</h4>        | <h4 align="center">Top Language's</h4>           | <h4 align="center">Now Playing Spotify</h4>
 | ------------- |:-------------:| ------------- |
-| <p align="center"><img src="https://profile-counter.glitch.me/{wilmerjfl}/count.svg" alt="wilmerjfl :: Visitor's Count" /></p>     |  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilmerjfl&langs_count=5&theme=tokyonight&layout=compact" alt="wilmerjfl :: Top Langs"/> | <p align="center"><img src="https://now-playing-profile-2jdah7c4z-wilmerjfl.vercel.app/now-playing"/> </p>
+| <p align="center"><img src="https://profile-counter.glitch.me/{wilmerjfl}/count.svg" alt="wilmerjfl :: Visitor's Count" /></p>     |  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilmerjfl&langs_count=5&theme=tokyonight&layout=compact" alt="wilmerjfl :: Top Langs"/> | <p align="center"><img src="https://now-playing-profile-met7grd0w-wilmerjfl.vercel.app/now-playing"/> </p>
 
 <!--
 **wilmerjfl/wilmerjfl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
