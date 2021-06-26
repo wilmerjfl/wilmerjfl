@@ -7,7 +7,7 @@
    <a href="https://www.linkedin.com/in/wilmerjfl">
     <img src="https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Linkedin2_svg-512.png" width="28px" height="28px" alt="wilmerjfl"/>
    </a>
-    <a href="https://www.wilmerjfl.dev">
+    <a href="https://goofy-meninsky-a0313a.netlify.app">
     <img src="https://cdn1.iconfinder.com/data/icons/essentials-pack/96/world_web_www_internet_global-256.png" width="28px" height="28px" alt="wilmerjfl"/>
    </a>
 </p>
