@@ -5,10 +5,10 @@
 
 <p align="center">
    <a href="https://www.linkedin.com/in/wilmerjfl">
-    <img src="https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Linkedin2_svg-512.png" width="28px" height="28px" alt="wilmerjfl"/>
+    <img src="https://user-images.githubusercontent.com/54821132/129295074-333e74c5-25b8-427c-a20b-9aaf8233574d.png" width="28px" height="28px" alt="wilmerjfl"/>
    </a>
     <a href="https://goofy-meninsky-a0313a.netlify.app">
-    <img src="https://cdn1.iconfinder.com/data/icons/essentials-pack/96/world_web_www_internet_global-256.png" width="28px" height="28px" alt="wilmerjfl"/>
+    <img src="https://user-images.githubusercontent.com/54821132/129295088-d8b1421a-2274-42a2-951c-3acc1d5807d6.png" width="28px" height="28px" alt="wilmerjfl"/>
    </a>
 </p>
   
